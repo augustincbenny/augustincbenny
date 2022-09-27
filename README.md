@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently studying **at Jyothi Engineering College.**
+- 🔭 I’m currently studying **B.Tech in Computer Science.**
 
 - 🌱 I’m currently learning **Java.**
 
