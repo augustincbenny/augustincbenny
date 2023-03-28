@@ -33,6 +33,5 @@
 <br>
 
 [![Augustin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=augustincbenny&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<a href="https://www.buymeacoffee.com/augustincbenny" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 
