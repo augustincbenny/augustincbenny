@@ -29,5 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=augustincbenny&show_icons=true&locale=en" alt="augustincbenny" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=augustincbenny&" alt="augustincbenny" /></p>
-[![Augustin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=augustincbenny&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Augustin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=augustincbenny&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
