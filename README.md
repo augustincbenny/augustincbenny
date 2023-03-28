@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently studying **B.Tech in Computer Science.**
 
-- 🌱 I’m currently learning **Java.**
+- 🌱 I’m currently learning **Frontend using react**
 
 - 👯 I’m looking to collaborate **with other developers.**
 
 - 📫 How to reach me **augustincbenny2001@gmail.com**
 
-- ⚡ Fun fact **I love to play games.**
+- ⚡ Fun fact **I love Badminton**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
