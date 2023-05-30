@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **augustincbenny2001@gmail.com**
 
-- ⚡ Fun fact **I love Badminton**
+- ⚡ Fun fact **White is the most popular car color.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
